@@ -10,3 +10,6 @@ This is a simple password generator created using React. It allows you to genera
 
 # Usage
 To use the password generator, simply adjust the length and requirements of your desired password using the input fields and checkboxes. Then, click the "Generate Password" button to create a new password. You can copy the generated password to your clipboard by clicking the "Copy" button.
+
+# Docker Image
+I have created a Docker Image and pushed into the DockerHub. Name of the image is **nithin1317/password-generator**
